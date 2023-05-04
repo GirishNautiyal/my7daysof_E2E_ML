@@ -1,1 +1,1 @@
-# my7daysof_E2E_ML
+# End to End Machine Learning Project
